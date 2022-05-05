@@ -9,6 +9,6 @@
 
 ### Settings
 
-Doesn't validate PGN
-Uses Stockfish 11 for position evaluation
+Doesn't validate PGN.
+Uses Stockfish 11 for position evaluation.
 Depth search is 14
